@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack Projects .<br>👯 I’m looking to collaborate on Development of Blockchain System and Full-Stack Projects.<br>🤝 I’m looking for help with new project ideas.<br>🌱 I’m currently learning DSA, SDLC, Spring boot.<br>💬 Ask me about my projects and any guidance you might need.<br>⚡ Fun fact i can solve rubics cube under 2 minutes.
+🔭 I’m currently working on a Full Stack Projects .<br>👯 I’m looking to collaborate on Development of Blockchain System and Full-Stack Projects.<br>🤝 I’m looking for help with new project ideas.<br>🌱 I’m currently learning DSA, SDLC, Spring boot.<br>💬 Ask me about my projects and any guidance you might need.<br>⚡ Fun fact i can solve rubics cube under 2 minutes. 
 
 
 
